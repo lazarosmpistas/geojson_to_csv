@@ -15,3 +15,4 @@ venv/
 
 *.xml
 
+config.json
