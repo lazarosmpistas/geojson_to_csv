@@ -1,0 +1,1 @@
+**This is a simple script to convert geojson files to a csv file for better storing and studying.**
